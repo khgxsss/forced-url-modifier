@@ -1,5 +1,5 @@
 # forced_url
-for URL forced FULL encoding &amp; decoding
+for URL forced FULL encoding &amp; decoding &nbsp;
 by dh kim
 
 ## usage
